@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "fix-laggy-friends-list",
+    "author": "teralove",
+    "description": "Fix for Friends List UI bug that lag, freeze and crash the game.",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A", 
+    "options": {
+        "niceName": "Fix Laggy Friends List"
+    },
+    "servers": ["https://raw.githubusercontent.com/teralove/fix-laggy-friends-list/master/"],
+    "supportUrl": "https://github.com/teralove/fix-laggy-friends-list/issues"
+}
